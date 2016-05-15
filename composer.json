@@ -1,11 +1,11 @@
 {
-    "name": "neuralys/nde",
-    "description": "Library for the Winamp Nullsoft Database Engine format aka NDE",
+    "name": "sachin/nde",
+    "description": "Library for the Winamp Nullsoft Database Engine format aka NDE,forked from nico@neuralys.com",
 
     "authors": [
         {
-            "name": "Nicolas BELIN",
-            "email": "nico@neuralys.com"
+            "name": "Sachin Sharma",
+            "email": "sachin1992sharma@gmail.com"
         }
     ],
 
